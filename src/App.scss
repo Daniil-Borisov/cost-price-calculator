@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.calculator__buttons-wrapper {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
